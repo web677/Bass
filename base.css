@@ -28,7 +28,6 @@ input:not([type="button"]),textarea {-webkit-user-select:auto;}
 /*页面基础样式*/
 html {min-height: 100%;}
 body {overflow-x: hidden;width: 100%;font-family: "Microsoft YaHei";}
-body {background: #f3f3f7;color: #333;border-bottom: 1px solid rgba(0,0,0,0);font-size: 1.5rem;font-weight: 300;}
 button,textarea,input,select,h1,h2,h3,h4,h5,h6 {font-family: "Microsoft YaHei";font-size: 1.5rem;font-weight: 300;}
 .clear {clear: both;}
 /*屏幕适配**rem基准值*/
